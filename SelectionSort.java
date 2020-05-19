@@ -1,4 +1,4 @@
-package ds.interesting.questions.selection_sort;
+package ds.interesting.questions;
 
 import java.util.Scanner;
 

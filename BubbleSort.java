@@ -1,4 +1,4 @@
-package ds.interesting.questions.bubble_sort;
+package ds.interesting.questions;
 
 import java.util.Scanner;
 
