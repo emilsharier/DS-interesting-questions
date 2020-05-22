@@ -1,4 +1,4 @@
-package ds.interesting.questions;
+package ds.interesting.sorting_algorithms;
 
 import java.util.Scanner;
 

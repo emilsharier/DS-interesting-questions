@@ -1,4 +1,4 @@
-package ds.interesting.questions.questions;
+package ds.interesting.questions;
 
 /*
 Question : Find the first non repeating character in a string. Time complexity should be O(n)
