@@ -21,12 +21,6 @@ public class FindLongestSubArray {
         int actualLeft = -1, actualRight = -1;
         for (i = 0; i < arr.length; i++) {
             sum = findSum(left, right, arr);
-//            System.out.println("Iteration " + i + " : " + "Value " + arr[i]);
-            System.out.println("Iteration : " + i);
-            System.out.println("Sum : " + sum);
-            System.out.println("Left : " + left);
-            System.out.println("Right : " + right);
-            System.out.println();
             if (sum < val) {
                 right++;
             } else if (sum > val) {
